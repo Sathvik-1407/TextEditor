@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/TextEditor2/static/css/main.1ef3a49a.css",
-    "main.js": "/TextEditor2/static/js/main.c5289eff.js",
-    "index.html": "/TextEditor2/index.html",
-    "main.1ef3a49a.css.map": "/TextEditor2/static/css/main.1ef3a49a.css.map",
-    "main.c5289eff.js.map": "/TextEditor2/static/js/main.c5289eff.js.map"
+    "main.css": "/TextEditor-ReactJs/static/css/main.1ef3a49a.css",
+    "main.js": "/TextEditor-ReactJs/static/js/main.c5289eff.js",
+    "index.html": "/TextEditor-ReactJs/index.html",
+    "main.1ef3a49a.css.map": "/TextEditor-ReactJs/static/css/main.1ef3a49a.css.map",
+    "main.c5289eff.js.map": "/TextEditor-ReactJs/static/js/main.c5289eff.js.map"
   },
   "entrypoints": [
     "static/css/main.1ef3a49a.css",
